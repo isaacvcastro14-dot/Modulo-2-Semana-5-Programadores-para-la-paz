@@ -1,0 +1,5 @@
+En la ruta principal http://localhost:3000 el servidor muestra el mensaje "Servidor activo", indicando que el servidor está funcionando correctamente.
+
+En la ruta /saludo el servidor responde con el mensaje "Hola comunidad".
+
+En la ruta /mensaje/juan el servidor toma el nombre enviado en la URL y responde con el mensaje "Hola juan".
